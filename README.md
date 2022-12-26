@@ -1,9 +1,14 @@
 - 👋 Hi, I’m **Abhijeet Basfore**
 - 👀 I’m interested in Data Structure and Algorithm, Web Development, Springboot, React.js, ES6
 - 🌱 I’m currently learning Open Source Contribution, Fullstack Development
-- [LinkedIn](https://www.linkedin.com/in/abhijeet-basfore-8526b71b5/)
-- [Twitter](https://twitter.com/AbhijeetBasfore)
-- [Leetcode](https://leetcode.com/abhijeet_26/)
+
+
+## Connect With me
+  [<img align="left" alt="ibilalkayy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abhijeet-basfore-8526b71b5/)
+
+[<img align="left" alt="ibilalkayy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/AbhijeetBasfore)
+
+[<img align="left" alt="ibilalkayy | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]([https://facebook.com/ibilalkay](https://www.facebook.com/abhijeetbasfore26/))
 
 
 
