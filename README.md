@@ -12,6 +12,8 @@
  [<img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" width="26px"  align="left" alt="c++ logo image" />]()
  [<img src="https://avatars.githubusercontent.com/u/1134463?v=4" width="26px" align="left" alt="springboot" />]()
  [<img src="https://pics.freeicons.io/uploads/icons/png/8575147831553750379-512.png" width="26px" align="left" alt="react" />]()
+ [<img src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" width="26px" align="left" alt="postgresql" />]()
+ [<img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="26px" align="left" alt="postman" />]()
  [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
  
 
