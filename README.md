@@ -28,8 +28,14 @@
 
 [<img align="left" alt="ibilalkayy | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]([https://facebook.com/ibilalkay](https://www.facebook.com/abhijeetbasfore26/))
 
+-
 
 
+
+
+
+## Latest Hashnode Blog
+   - [Functional Interface](https://abhijeetbasfore26.hashnode.dev/functional-interface)
 
 <!---
 abhijeet-26/abhijeet-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
