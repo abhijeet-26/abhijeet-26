@@ -1,11 +1,20 @@
-- 👋 Hi there, I’m **Abhijeet Basfore**
-- 👀 I’m interested in Data Structure and Algorithm, Web Development, Springboot, React.js, ES6
-- 🌱 I’m currently learning Open Source Contribution, Fullstack Development
+  <h2 align="center">Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="55px" height="55px">I’m Abhijeet Basfore </h2>
+  
+  
+- 😄 Pronouns: He/His
+- 🌱 I’m currently learning more about Fullstack, Opensource and DataStructures and Algorithm.
+- 👯 I’m looking to collaborate on an Open Source Porject.
+- 🤔 I’m looking for a Community to learn more about open source.
+<!-- -💬 Ask me about Flutter or any tech-related stuff. -->
+- 📫 How to reach me: Check social links below.
+
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/akatski_26/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijeet-basfore-8526b71b5/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbhijeetBasfore) [![Hashnode](https://img.shields.io/badge/Hashnode-%23FF0000.svg?logo=Hashnode&logoColor=white)](https://hashnode.com/@abhijeet26) [![Twitter](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/abhijeetbasfore26/)
 
 
+## 📟 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhijeet-26&&show_icons=true&title_color=30a14e&icon_color=30a14e&text_color=000000&bg_color=ffffff">
-
+<img src="https://github-readme-stats.vercel.app/api?username=abhijeet-26&theme=vue&show_icons=true">  <img src="https://streak-stats.demolab.com/?user=abhijeet-26&theme=vue">
 
 
 ### Languages and Tools
