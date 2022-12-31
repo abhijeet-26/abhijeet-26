@@ -14,7 +14,7 @@
 
 ## 📟 Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhijeet-26&theme=vue&show_icons=true&card_width=450px">  <img src="https://streak-stats.demolab.com/?user=abhijeet-26&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api?username=abhijeet-26&theme=vue&show_icons=true&card_width=450px"> <img src="https://streak-stats.demolab.com/?user=abhijeet-26&theme=vue&card_width=420px">
 
 
 ### Languages and Tools
