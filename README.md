@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhijeet-26&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=abhijeet-26&&show_icons=true&title_color=00c04b&icon_color=00c04b&text_color=000000&bg_color=ffffff">
 
 
 
