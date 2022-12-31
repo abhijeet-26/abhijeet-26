@@ -13,9 +13,10 @@
 
 
 ## 📟 Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhijeet-26&theme=vue&show_icons=true&card_width=300px"> <img src="https://streak-stats.demolab.com/?user=abhijeet-26&theme=vue&card_width=300px">
-
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhijeet-26&show_icons=true&theme=vue" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet-26&theme=vue" />
+</p>
 
 ### Languages and Tools
  [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
