@@ -1,5 +1,6 @@
   <h2 align="center">Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="55px" height="55px">I’m Abhijeet Basfore </h2>
   
+  ![Profile views](https://gpvc.arturio.dev/abhijeet-26)
   
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning more about Fullstack, Opensource and DataStructures and Algorithm.
