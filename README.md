@@ -2,6 +2,7 @@
   
   ![Profile views](https://gpvc.arturio.dev/abhijeet-26)
   
+  **I am Self taught Fullstack Developer.**
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning more about Fullstack, Opensource and DataStructures and Algorithm.
 - 👯 I’m looking to collaborate on an Open Source Porject.
