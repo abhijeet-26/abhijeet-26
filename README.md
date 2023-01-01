@@ -26,7 +26,7 @@
 
 ## 📟 Github Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=abhijeet-26&show_icons=true&theme=vue" />
+	<img width="48%" src="https://awesome-github-stats.azurewebsites.net/user-stats/abhijeet-26?cardType=github&theme=vue" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet-26&theme=vue" />
 </p>
 
@@ -35,8 +35,15 @@
 
 
 
+
 ## Latest Hashnode Blog
    - [Functional Interface](https://abhijeetbasfore26.hashnode.dev/functional-interface)
+
+
+
+
+<h2 align="center" size="30">⚡️Stay awesome!⚡️</h2>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/9101d129ed9cd547de9e76d5e2aef1ca7a1f5923/svg/Bottom.svg">
 
 <!---
 abhijeet-26/abhijeet-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
