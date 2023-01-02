@@ -42,7 +42,7 @@
 
 
 
-<h2 align="center" size="30"><font size="7">⚡️Stay awesome!⚡️</font></h2>
+<h1 align="center" size="30">⚡️Stay awesome!⚡️</h1>
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/9101d129ed9cd547de9e76d5e2aef1ca7a1f5923/svg/Bottom.svg">
 
 <!---
