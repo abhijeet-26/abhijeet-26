@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning more about Fullstack, Opensource and DataStructures and Algorithm.
 - 👯 I’m looking to collaborate on an Open Source Porject.
 - 🤔 I’m looking for a Community to learn more about open source.
-<!-- -💬 Ask me about Flutter or any tech-related stuff. -->
 - 📫 How to reach me: Check social links below.
 
 ## 🌐 Socials
