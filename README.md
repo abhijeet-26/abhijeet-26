@@ -1,3 +1,4 @@
+  
   <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Hi,+I'm+Abhijeet+Basfore.;Open-Source+Enthusiast;&center=true"></a> </p>
   
 <!--   <p align="center">
@@ -47,7 +48,7 @@
 All my social links in one place - https://linkfree.eddiehub.io/abhijeet-26
 
 <h1 align="center" size="30">⚡️Stay awesome!⚡️</h1>
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/9101d129ed9cd547de9e76d5e2aef1ca7a1f5923/svg/Bottom.svg">
+<img src="https://qph.cf2.quoracdn.net/main-qimg-338e161b637863417e3ba92816dd27ab" width="100%">
 
 <!---
 abhijeet-26/abhijeet-26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
