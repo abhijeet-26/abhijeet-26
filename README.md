@@ -1,5 +1,5 @@
   
-  <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Hi,+I'm+Abhijeet+Basfore.;Open-Source+Enthusiast;&center=true"></a> </p>
+  <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Hi,+I'm+Abhijeet+Basfore.;Open-Source+Enthusiast;Self-taught+Fullstack+Engineer;&center=true"></a> </p>
   
 <!--   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
