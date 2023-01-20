@@ -11,7 +11,7 @@
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning more about Fullstack, Opensource and DataStructures and Algorithm.
 - 👯 I’m looking to collaborate on an Open Source Porject.
-- 🤔 I’m looking for a Community to learn more about open source.
+- 🤔 I’m looking for a Community to Learn different techstack with fun.
 - 📫 How to reach me: abhibas14@gmail.com
 
 ## 🌐 Socials
