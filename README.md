@@ -53,6 +53,7 @@ width="40"/></a>
 ## Latest Hashnode Blog
    - [Functional Interface](https://abhijeetbasfore26.hashnode.dev/functional-interface)
    - [First class Function vs Higher Order Function](https://abhijeetbasfore26.hashnode.dev/first-class-function-vs-higher-order-function)
+   - [DOM in Javascript](https://abhijeetbasfore26.hashnode.dev/document-object-model-dom-in-javascript)
 
 
 All my social links in one place - https://linkfree.eddiehub.io/abhijeet-26
