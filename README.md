@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p> -->
   
-  ![Profile views](https://gpvc.arturio.dev/abhijeet-26)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhijeet-26)
   
   **I am a Self taught Fullstack Developer.**
 - 😄 Pronouns: He/His
