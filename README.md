@@ -12,6 +12,8 @@
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhijeet-26)
   
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/abhibas14)
+  
   **I am a Self taught Fullstack Developer.**
 - 😄 Pronouns: He/His
 - 🌱 I’m currently learning more about Fullstack, Opensource and DataStructures and Algorithm.
