@@ -41,6 +41,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjl0vEakPtx6iubXI-VLP56s36ZNRp30DEsw&usqp=CAU" height="30" width="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="30" width="30"/>
   <img src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" height="30" width="50"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="30" width="30"/>
 </p>
 
 
