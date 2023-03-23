@@ -31,6 +31,10 @@
 
 
 ## 💻 Languages and Tools
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="30" width="30"/> 
+  <img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" height="30" width="30"/>	
+</p>
 
 
 
@@ -46,8 +50,8 @@
 
 
 ## 📟 Github Stats
-<p align="center">
-	<img width="48%" src="https://awesome-github-stats.azurewebsites.net/user-stats/abhijeet-26?cardType=github&theme=vue" />
+<p >
+  <img width="48%" src="https://awesome-github-stats.azurewebsites.net/user-stats/abhijeet-26?cardType=github&theme=vue" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet-26&theme=vue" />
 </p>
 
